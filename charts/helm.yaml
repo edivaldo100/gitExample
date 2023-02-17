@@ -1,0 +1,6 @@
+build:
+  uri: https://github.com/edivaldo100/gitExample
+  ref: main
+  contextDir: helloworld
+deploy:
+  replicas: 1
